@@ -1,0 +1,9 @@
+﻿<publishData>
+    <publishProfile
+   ="" publishUrl="https://universitysystem-001-site1.myasp.net:8172/msdeploy.axd"
+   ="" msdeploySite="universitysystem-001-site1"
+   ="" destinationAppUrl="http://universitysystem-001-site1.myasp.net/"
+   ="" profileName="Default Settings"
+   ="" publishMethod="MSDeploy"
+   ="" userName="ifc\universitysystem-001" />
+</publishData>
